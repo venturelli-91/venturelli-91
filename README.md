@@ -49,7 +49,6 @@ Sou um <strong>desenvolvedor Full Stack</strong> apaixonado por criar soluções
 - 🌦️ **[Aplicativo de Clima](https://github.com/venturelli-91/weather_app.git)** → Consulta para determinação de condições climáticas de municípios e capitais.
 - 💰 **[Conversor de Moedas](https://github.com/venturelli-91/currency_conversion.git)** → Aplicativo para conversão de moedas em tempo real.
 
-📌 **Acessem o meu repositório:** [GitHub](https://github.com/venturelli-91)
 
 ---
 
