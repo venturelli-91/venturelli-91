@@ -15,30 +15,30 @@ Sou um <strong>desenvolvedor Full Stack</strong> apaixonado por criar soluções
 
 #### 🔹 **Linguagens:**
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </div>
 
 #### 🔹 **Frameworks e Bibliotecas:**
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Zustand-5F2EEA?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Flowbite-1A56DB?style=for-the-badge&logo=flowbite&logoColor=white" alt="Flowbite" />
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/bear.jpg" alt="Zustand" width="40" height="40" style="border-radius: 50%;"/>
+  <img src="https://flowbite.s3.amazonaws.com/brand/logo-dark/mark/flowbite-logo.svg" alt="Flowbite" width="40" height="40"/>
 </div>
 
 #### 🔹 **Banco de Dados & Ferramentas:**
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Package.json-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Package JSON" />
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
 </div>
 
 ---
@@ -49,6 +49,7 @@ Sou um <strong>desenvolvedor Full Stack</strong> apaixonado por criar soluções
 - 🌦️ **[Aplicativo de Clima](https://github.com/venturelli-91/weather_app.git)** → Consulta para determinação de condições climáticas de municípios e capitais.
 - 💰 **[Conversor de Moedas](https://github.com/venturelli-91/currency_conversion.git)** → Aplicativo para conversão de moedas em tempo real.
 
+📌 **Acessem o meu repositório:** [GitHub](https://github.com/venturelli-91)
 
 ---
 
@@ -64,4 +65,5 @@ Sou um <strong>desenvolvedor Full Stack</strong> apaixonado por criar soluções
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurelioventurelli)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venturelli.dev@gmail.com)
 
-Entre em contato, vamos conversar! 
+Entre em contato, vamos conversar!
+
