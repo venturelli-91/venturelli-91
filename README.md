@@ -8,7 +8,11 @@
 </p>
 
 <div style="color:#66FCF1;">
-Sou um <strong>desenvolvedor Full Stack</strong> apaixonado por criar soluções modernas e escaláveis usando <strong>Next.js, Node.js e TypeScript</strong>. Tenho experiência em desenvolvimento web e estou sempre buscando aprimorar minhas habilidades para entregar produtos eficientes e de alto desempenho.
+Sou um <strong>desenvolvedor Full Stack</strong> apaixonado por criar soluções modernas e escaláveis usando <strong>Next.js, Node.js, React e TypeScript</strong>. Tenho experiência em desenvolvimento web e estou sempre buscando aprimorar minhas habilidades para entregar produtos eficientes e de alto desempenho.
+</div>
+
+<div style="color:#66FCF1;">
+I am a <strong>Full Stack developer</strong> with experience in creating customized solutions that simplify processes and drive results, expanding my skills in <strong>Next.js, Node.js, TypeScript and React.</strong>
 </div>
 
 ### Tecnologias e stacks:
