@@ -1,16 +1,17 @@
-<h1 align="center">👨‍💻<span style="color:#61DAFB;">Aurélio Venturelli</span></h1>
+<h1 align="center">👨‍💻<span style="color:#00FFFF;">Aurélio Venturelli</span></h1>
 
-<h3 align="center" style="color:#38B2AC;">Desenvolvedor Full Stack</h3>
+<h3 align="center" style="color:#0FF0FC;">Desenvolvedor Full Stack</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Foco-Desenvolvimento_Web-brightgreen" alt="Foco" />
-  <img src="https://img.shields.io/badge/Experiência-Soluções_Modernas-blue" alt="Experiência" />
-  <img src="https://img.shields.io/badge/Status-Disponível-success" alt="Status" />
+  <img src="https://img.shields.io/badge/Foco-Desenvolvimento_Web-8A2BE2" alt="Foco" />
+  <img src="https://img.shields.io/badge/Experiência-Soluções_Modernas-6A0DAD" alt="Experiência" />
 </p>
 
-Sou um **desenvolvedor Full Stack** apaixonado por criar soluções modernas e escaláveis usando **Next.js, Node.js e TypeScript**. Tenho experiência em desenvolvimento web e estou sempre buscando aprimorar minhas habilidades para entregar produtos eficientes e de alto desempenho.
+<div style="color:#66FCF1;">
+Sou um <strong>desenvolvedor Full Stack</strong> apaixonado por criar soluções modernas e escaláveis usando <strong>Next.js, Node.js e TypeScript</strong>. Tenho experiência em desenvolvimento web e estou sempre buscando aprimorar minhas habilidades para entregar produtos eficientes e de alto desempenho.
+</div>
 
-### 🚀 Tecnologias que utilizo:
+### Tecnologias e stacks:
 
 #### 🔹 **Linguagens:**
 
@@ -25,6 +26,7 @@ Sou um **desenvolvedor Full Stack** apaixonado por criar soluções modernas e e
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Zustand-5F2EEA?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
   <img src="https://img.shields.io/badge/Flowbite-1A56DB?style=for-the-badge&logo=flowbite&logoColor=white" alt="Flowbite" />
@@ -41,20 +43,20 @@ Sou um **desenvolvedor Full Stack** apaixonado por criar soluções modernas e e
 
 ---
 
-### 🔥 Alguns dos meus projetos:
+### Alguns dos meus projetos:
 
-- 🏨 **[E-commerce de Reservas](https://github.com/seuusuario/ecommerce-reservas)** → Plataforma para reserva de hospedagens.
-- 🌦️ **[Aplicativo de Clima](https://github.com/seuusuario/app-clima)** → Consulte a previsão do tempo de forma rápida e eficiente.
-- 💰 **[Conversor de Moedas](https://github.com/seuusuario/conversor-moedas)** → Aplicativo para conversão de moedas em tempo real.
+- 🏨 **[E-commerce de Reservas](https://github.com/venturelli-91/hotel_reservation.git)** → Plataforma para reserva de hospedagens.
+- 🌦️ **[Aplicativo de Clima](https://github.com/venturelli-91/weather_app.git)** → Consulte a previsão do tempo de forma rápida e eficiente.
+- 💰 **[Conversor de Moedas](https://github.com/venturelli-91/currency_conversion.git)** → Aplicativo para conversão de moedas em tempo real.
 
-📌 **Veja mais no meu repositório:** [GitHub](https://github.com/seuusuario)
+📌 **Veja mais no meu repositório:** [GitHub](https://github.com/venturelli-91)
 
 ---
 
 ### 📊 Estatísticas do GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=react)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venturelli-91&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venturelli-91&layout=compact&theme=react)
 
 ---
 
