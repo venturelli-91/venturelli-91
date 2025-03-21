@@ -67,3 +67,4 @@ Sou um <strong>desenvolvedor Full Stack</strong> apaixonado por criar soluções
 
 Entre em contato, vamos conversar!
 
+
