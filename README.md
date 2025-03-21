@@ -1,4 +1,12 @@
-## Olá! Eu sou [Seu Nome] 👋
+<h1 align="center">👨‍💻<span style="color:#61DAFB;">Aurélio Venturelli</span></h1>
+
+<h3 align="center" style="color:#38B2AC;">Desenvolvedor Full Stack</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Foco-Desenvolvimento_Web-brightgreen" alt="Foco" />
+  <img src="https://img.shields.io/badge/Experiência-Soluções_Modernas-blue" alt="Experiência" />
+  <img src="https://img.shields.io/badge/Status-Disponível-success" alt="Status" />
+</p>
 
 Sou um **desenvolvedor Full Stack** apaixonado por criar soluções modernas e escaláveis usando **Next.js, Node.js e TypeScript**. Tenho experiência em desenvolvimento web e estou sempre buscando aprimorar minhas habilidades para entregar produtos eficientes e de alto desempenho.
 
@@ -45,10 +53,18 @@ Sou um **desenvolvedor Full Stack** apaixonado por criar soluções modernas e e
 
 ### 📊 Estatísticas do GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=react)
 
 ---
+
+### 📧 Como me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurelioventurelli)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venturelli.dev@gmail.com)
+
+🚀 Sempre aberto a novos desafios e oportunidades!
+
 
 ### 📧 Como me encontrar:
 
