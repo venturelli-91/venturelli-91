@@ -1,23 +1,19 @@
 <h1 align="center">👨‍💻<span style="color:#00FFFF;">Aurélio Venturelli</span></h1>
 
-<h3 align="center" style="color:#0FF0FC;">Desenvolvedor Full Stack</h3>
+<h3 align="center" style="color:#0FF0FC;">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Foco-Desenvolvimento_Web-8A2BE2" alt="Foco" />
-  <img src="https://img.shields.io/badge/Experiência-Soluções_Modernas-6A0DAD" alt="Experiência" />
+  <img src="https://img.shields.io/badge/Focus-Web_Development-8A2BE2" alt="Focus" />
+  <img src="https://img.shields.io/badge/Experience-Modern_Solutions-6A0DAD" alt="Experience" />
 </p>
 
 <div style="color:#66FCF1;">
-Sou um <strong>desenvolvedor Full Stack</strong> apaixonado por criar soluções modernas e escaláveis usando <strong>Next.js, Node.js, React e TypeScript</strong>. Tenho experiência em desenvolvimento web e estou sempre buscando aprimorar minhas habilidades para entregar produtos eficientes e de alto desempenho.
+I am a <strong>Full Stack developer</strong> passionate about creating modern and scalable solutions using <strong>Next.js, Node.js, React and TypeScript</strong>. I have experience in web development and I'm always looking to enhance my skills to deliver efficient and high-performance products.
 </div>
 
-<div style="color:#66FCF1;">
-I am a <strong>Full Stack developer</strong> with experience in creating customized solutions that simplify processes and drive results, expanding my skills in <strong>Next.js, Node.js, TypeScript and React.</strong>
-</div>
+### Technologies and stacks:
 
-### Tecnologias e stacks:
-
-#### 🔹 **Linguagens:**
+#### 🔹 **Languages:**
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -26,7 +22,7 @@ I am a <strong>Full Stack developer</strong> with experience in creating customi
 
 #### 🔹 **Front-end:**
 
-##### 📍 **Primárias:**
+##### 📍 **Primary:**
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" alt="Next.js" width="40" height="40"/>
@@ -37,7 +33,7 @@ I am a <strong>Full Stack developer</strong> with experience in creating customi
   <img src="https://flowbite.s3.amazonaws.com/brand/logo-dark/mark/flowbite-logo.svg" alt="Flowbite" width="40" height="40"/>
 </div>
 
-##### 📍 **Secundárias:**
+##### 📍 **Secondary:**
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
@@ -54,7 +50,7 @@ I am a <strong>Full Stack developer</strong> with experience in creating customi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="background-color: white; border-radius: 5px; padding: 3px;"/>
 </div>
 
-#### 🔹 **Ferramentas & Deploy:**
+#### 🔹 **Tools & Deployment:**
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
@@ -65,28 +61,26 @@ I am a <strong>Full Stack developer</strong> with experience in creating customi
 
 ---
 
-### Projetos em andamento:
+### Current Projects:
 
-- 🏨 **[E-commerce de Reservas](https://github.com/venturelli-91/hotel_reservation.git)** → Plataforma de e-commerce para reservas hoteleiras com banco de dados integrado.
-- 🌦️ **[Aplicativo de Clima](https://github.com/venturelli-91/weather_app.git)** → Consulta para determinação de condições climáticas de municípios e capitais.
-- 💰 **[Conversor de Moedas](https://github.com/venturelli-91/currency_conversion.git)** → Aplicativo para conversão de moedas em tempo real.
+- 🏨 **[Hotel Reservation E-commerce](https://github.com/venturelli-91/hotel_reservation.git)** → E-commerce platform for hotel reservations with integrated database.
+- 🌦️ **[Weather App](https://github.com/venturelli-91/weather_app.git)** → Application for checking weather conditions in cities and capitals.
+- 💰 **[Currency Converter](https://github.com/venturelli-91/currency_conversion.git)** → Real-time currency conversion application.
 
-📌 **Acessem o meu repositório:** [GitHub](https://github.com/venturelli-91)
+📌 **Access my repository:** [GitHub](https://github.com/venturelli-91)
 
 ---
 
-### 📊 Estatísticas do GitHub:
+### 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venturelli-91&show_icons=true&theme=react&hide=issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=venturelli-91&layout=compact&theme=react)
 
 ---
 
-### 📧 Como me encontrar:
+### 📧 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurelioventurelli)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venturelli.dev@gmail.com)
 
-Entre em contato, vamos conversar!
-
-
+Get in touch, let's talk!
