@@ -23,12 +23,12 @@ Sou um <strong>desenvolvedor Full Stack</strong> apaixonado por criar soluções
 #### 🔹 **Frameworks e Bibliotecas:**
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40" style="background-color: white; border-radius: 5px; padding: 3px;"/>
+  <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
   <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express.js" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://img.stackshare.io/service/11559/zustand.png" alt="Zustand" width="40" height="40" style="border-radius: 50%; background-color: white;"/>
+  <img src="https://avatars.githubusercontent.com/u/103192255?s=200&v=4" alt="Zustand" width="40" height="40" style="border-radius: 50%;"/>
   <img src="https://flowbite.s3.amazonaws.com/brand/logo-dark/mark/flowbite-logo.svg" alt="Flowbite" width="40" height="40"/>
 </div>
 
