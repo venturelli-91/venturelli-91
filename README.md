@@ -43,13 +43,13 @@ Sou um <strong>desenvolvedor Full Stack</strong> apaixonado por criar soluções
 
 ---
 
-### Alguns dos meus projetos:
+### Projetos em andamento:
 
-- 🏨 **[E-commerce de Reservas](https://github.com/venturelli-91/hotel_reservation.git)** → Plataforma para reserva de hospedagens.
-- 🌦️ **[Aplicativo de Clima](https://github.com/venturelli-91/weather_app.git)** → Consulte a previsão do tempo de forma rápida e eficiente.
+- 🏨 **[E-commerce de Reservas](https://github.com/venturelli-91/hotel_reservation.git)** → Plataforma de e-commerce para reservas hoteleiras com banco de dados integrado.
+- 🌦️ **[Aplicativo de Clima](https://github.com/venturelli-91/weather_app.git)** → Consulta para determinação de condições climáticas de municípios e capitais.
 - 💰 **[Conversor de Moedas](https://github.com/venturelli-91/currency_conversion.git)** → Aplicativo para conversão de moedas em tempo real.
 
-📌 **Veja mais no meu repositório:** [GitHub](https://github.com/venturelli-91)
+📌 **Acessem o meu repositório:** [GitHub](https://github.com/venturelli-91)
 
 ---
 
@@ -65,4 +65,4 @@ Sou um <strong>desenvolvedor Full Stack</strong> apaixonado por criar soluções
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurelioventurelli)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venturelli.dev@gmail.com)
 
-🚀 Sempre aberto a novos desafios e oportunidades!
+Entre em contato, vamos conversar! 
