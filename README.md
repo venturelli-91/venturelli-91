@@ -66,11 +66,3 @@ Sou um <strong>desenvolvedor Full Stack</strong> apaixonado por criar soluções
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venturelli.dev@gmail.com)
 
 🚀 Sempre aberto a novos desafios e oportunidades!
-
-
-### 📧 Como me encontrar:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurelioventurelli)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venturelli.dev@gmail.com)
-
-🚀 Sempre aberto a novos desafios e oportunidades!
