@@ -89,6 +89,14 @@ Sou um <strong>desenvolvedor Full Stack</strong> focado em criar soluções mode
 
 ---
 
+### 👀 Visitantes
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/venturelli-91/count.svg" alt="Contador de Visitantes" />
+</p>
+
+---
+
 <strong>Obrigado pela visita! Entre em contato =D.</strong>
 
 
