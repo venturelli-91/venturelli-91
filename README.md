@@ -28,7 +28,7 @@ Sou um <strong>desenvolvedor Full Stack</strong> focado em criar soluções mode
   <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
   <img src="https://avatars.githubusercontent.com/u/103192255?s=200&v=4" alt="Zustand" width="40" height="40" style="border-radius: 50%;"/>
   <img src="https://flowbite.s3.amazonaws.com/brand/logo-dark/mark/flowbite-logo.svg" alt="Flowbite" width="40" height="40"/>
 </div>
@@ -90,5 +90,4 @@ Sou um <strong>desenvolvedor Full Stack</strong> focado em criar soluções mode
 ---
 
 <strong>Obrigado pela visita! Entre em contato =D.</strong>
-
 
