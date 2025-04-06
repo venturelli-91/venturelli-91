@@ -28,7 +28,7 @@ Sou um <strong>desenvolvedor Full Stack</strong> focado em criar soluções mode
   <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/103192255?s=200&v=4" alt="Zustand" width="40" height="40" style="border-radius: 50%;"/>
   <img src="https://flowbite.s3.amazonaws.com/brand/logo-dark/mark/flowbite-logo.svg" alt="Flowbite" width="40" height="40"/>
 </div>
@@ -52,8 +52,8 @@ Sou um <strong>desenvolvedor Full Stack</strong> focado em criar soluções mode
 #### 🔹 **Ferramentas & Deployment:**
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://logowik.com/content/uploads/images/vercel1868.jpg" alt="Vercel" width="40" height="40" style="border-radius: 50%; background-color: white;"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
 </div>
@@ -65,6 +65,7 @@ Sou um <strong>desenvolvedor Full Stack</strong> focado em criar soluções mode
 - 🏨 **[E-commerce de Reservas de Hotel](https://github.com/venturelli-91/hotel_reservation.git)** → Plataforma de e-commerce para reservas de hotel com banco de dados integrado.
 - 🌦️ **[Aplicativo de Clima](https://github.com/venturelli-91/weather_app.git)** → Aplicação para verificação das condições climáticas em cidades e capitais.
 - 💰 **[Conversor de Moedas](https://github.com/venturelli-91/currency_conversion.git)** → Aplicação de conversão de moedas em tempo real.
+- 📊 **[Dashboard de Vendas](https://github.com/venturelli-91/sales_dashboard.git)** → Dashboard para controle de vendas usando React.js, Node.js, TypeScript e PostgreSQL.
 
 📌 **Acesse meu repositório:** [GitHub](https://github.com/venturelli-91)
 
@@ -87,7 +88,6 @@ Sou um <strong>desenvolvedor Full Stack</strong> focado em criar soluções mode
 </div>
 
 ---
-
 
 <strong>Obrigado pela visita! Entre em contato =D.</strong>
 
