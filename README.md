@@ -11,14 +11,6 @@
   <img src="https://img.shields.io/badge/BFF-Node.js%2FExpress-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Testing-Jest%2FRTL%2FZustand-FFB300?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Animation-GSAP%2FFramer--Motion-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-</div>
-</br>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=600&pause=1000&color=28FFEE&width=435&lines=Turning+ideas+into+impactful+experiences." alt="Typing SVG" />
-  </a>
-</div>
-</div>
 
 ---
 
@@ -30,6 +22,7 @@ My workflow is practical: I focus on clean code, modularity, and the Single Resp
 
 ## 🛠️ Tech Stack
 
+</br>
 
 ### • Languages
 
