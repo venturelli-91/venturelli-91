@@ -1,15 +1,24 @@
-<div align="center">
-  <h1>🚀 Aurélio Venturelli</h1>
-  <h3><span style="color:#00FFFF;">Software Engineer | Frontend Specialist</span></h3>
+<div>
+  <h1>Aurélio Venturelli</h1>
+  <h3>
+    <span style="color:#00FFFF;">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=600&pause=10000&color=28FFEE&width=435&lines=Software+Engineer+%7C+Frontend+Developer" alt="Typing SVG" />
+      </a>
+    </span>
+  </h3>
   <img src="https://img.shields.io/badge/Frontend-React%2FNext.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/BFF-Node.js%2FExpress-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Testing-Jest%2FRTL%2FZustand-FFB300?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/Animation-GSAP%2FFramer--Motion-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
 </div>
-
-<p align="center">
-  <b>Turning ideas into impactful digital experiences.</b>
-</p>
+</br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=600&pause=1000&color=28FFEE&width=435&lines=Turning+ideas+into+impactful+experiences." alt="Typing SVG" />
+  </a>
+</div>
+</div>
 
 ---
 
@@ -20,6 +29,8 @@ My workflow is practical: I focus on clean code, modularity, and the Single Resp
 ---
 
 ## 🛠️ Tech Stack
+
+</br>
 
 ### • Languages
 
@@ -77,7 +88,7 @@ My workflow is practical: I focus on clean code, modularity, and the Single Resp
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=venturelli-91&show_icons=true&theme=react&hide=issues,contribs" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venturelli-91&layout=compact&theme=react" alt="Top Langs" />
 </div>
@@ -95,7 +106,13 @@ My workflow is practical: I focus on clean code, modularity, and the Single Resp
 
 ---
 
-<div align="center">
+<div>
   <b>Thanks for visiting! Let's build something amazing together.</b>
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://github.com/venturelli-91/venturelli-91/blob/output/github-contribution-grid-snake.svg)
 
