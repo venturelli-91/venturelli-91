@@ -22,8 +22,6 @@ My workflow is practical: I focus on clean code, modularity, and the Single Resp
 
 ## 🛠️ Tech Stack
 
-</br>
-
 ### • Languages
 
 <div align="left" style="margin-bottom: 24px;">
@@ -103,4 +101,3 @@ My workflow is practical: I focus on clean code, modularity, and the Single Resp
 </div>
 
 ---
-
