@@ -112,7 +112,3 @@ My workflow is practical: I focus on clean code, modularity, and the Single Resp
 
 ---
 
-## 🐍 Contribution Snake
-
-![GitHub Contribution Snake](https://github.com/venturelli-91/venturelli-91/blob/output/github-contribution-grid-snake.svg)
-
