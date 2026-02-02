@@ -72,6 +72,8 @@ My focus is on clarity over cleverness: simple architectures, strong validation,
 
 - 🧪 [API Mock Studio](https://github.com/venturelli-91/APImock_studio) — Postman-inspired API testing interface built with Next.js App Router, featuring real HTTP requests, async states, live response previews, and persisted request history (TypeScript, Next.js, Tailwind CSS).
 - 🏨 [Hotel Reservation E-commerce](https://github.com/venturelli-91/hotel_reservation.git) — E-commerce platform for hotel reservations with integrated database.
+- 📅 [Meet Schedule](https://github.com/venturelli-91/meet_schedule) — Scheduling application with Calendly API integration, featuring tested production flows, responsive UX, and performance-oriented rendering using Next.js (SSR/SSG), TypeScript, and Tailwind CSS.
+- 📝 [Posts CRUD](https://github.com/venturelli-91/posts_crud) — Full CRUD application for posts with text and media, featuring optimistic updates, client-side caching, and accessible animated UI built with React Query, Zustand, and Radix (Next.js App Router, TypeScript).
 - 📅 [Timeline Board](https://github.com/venturelli-91/timeline_board) — Task management app with timeline visualization and drag-and-drop interactions, featuring dual views (grid and timeline), responsive layout, and client-side state management with Zustand (Next.js, TypeScript, Tailwind CSS).
 - 📊 [Sales Dashboard](https://github.com/venturelli-91/sales_dashboard.git) — Dashboard for sales management using React.js, Node.js, TypeScript, and PostgreSQL.
 
