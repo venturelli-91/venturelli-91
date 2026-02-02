@@ -14,9 +14,10 @@
 
 ---
 
-Hey guys, Aurélio here. I am a Software Engineer focused on frontend. I use <b>React, Next.js, TypeScript, TailwindCSS (with UI libraries), Zustand, Axios</b>, and external libraries like clsx and file exporters to solve interface and user experience problems. I have also built projects using GSAP and framer-motion for advanced animations. I work with BFF (Backend for Frontend) using Node.js and Express, and apply automated testing with Jest, React Testing Library, and REST API integration.
+Front-End Engineer with a product-oriented mindset.
 
-My workflow is practical: I focus on clean code, modularity, and the Single Responsibility Principle (SRP). I use linter and formatter tools to keep code quality and consistency. I leverage external libraries to speed up development and deliver solutions that work and are easy to maintain.
+I build and maintain React-based applications used by real users, focusing on clarity, performance, and long-term maintainability.
+I value simple architectures, good UX, and technical decisions that make the product easier to evolve, not harder.
 
 ---
 
