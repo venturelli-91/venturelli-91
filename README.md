@@ -14,10 +14,12 @@
 
 ---
 
-Front-End Engineer with a product-oriented mindset.
+Front-End Engineer building production-ready React applications used by thousands of users.
 
-I build and maintain React-based applications used by real users, focusing on clarity, performance, and long-term maintainability.
-I value simple architectures, good UX, and technical decisions that make the product easier to evolve, not harder.
+I work on real products in education and advertising platforms, owning frontend features end to end, from understanding complex requirements to delivering reliable, maintainable solutions in production.
+
+My focus is on clarity over cleverness: simple architectures, strong validation, good UX, and frontend decisions that scale without overengineering.
+
 
 ---
 
