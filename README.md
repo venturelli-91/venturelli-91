@@ -70,21 +70,22 @@ My focus is on clarity over cleverness: simple architectures, strong validation,
 
 ## 🚧 Featured Projects
 
-- 📅 [Meet Schedule](https://github.com/venturelli-91/meet_schedule) — Modern meeting scheduling app with Calendly integration, responsive UI, and automated tests (TypeScript, Next.js, React, Tailwind CSS, Jest).
+- 🧪 [API Mock Studio](https://github.com/venturelli-91/APImock_studio) — Postman-inspired API testing interface built with Next.js App Router, featuring real HTTP requests, async states, live response previews, and persisted request history (TypeScript, Next.js, Tailwind CSS).
 - 🏨 [Hotel Reservation E-commerce](https://github.com/venturelli-91/hotel_reservation.git) — E-commerce platform for hotel reservations with integrated database.
-- 💰 [Currency Converter](https://github.com/venturelli-91/currency_conversion.git) — Real-time currency conversion application.
+- 📅 [Timeline Board](https://github.com/venturelli-91/timeline_board) — Task management app with timeline visualization and drag-and-drop interactions, featuring dual views (grid and timeline), responsive layout, and client-side state management with Zustand (Next.js, TypeScript, Tailwind CSS).
 - 📊 [Sales Dashboard](https://github.com/venturelli-91/sales_dashboard.git) — Dashboard for sales management using React.js, Node.js, TypeScript, and PostgreSQL.
 
 📌 **See more at:** [github.com/venturelli-91](https://github.com/venturelli-91)
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Impact & Metrics
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=venturelli-91&show_icons=true&theme=react&hide=issues,contribs" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=venturelli-91&layout=compact&theme=react" alt="Top Langs" />
-</div>
+- Built and maintained frontend features used by **10,000+ students** at an education platform
+- Delivered validation-heavy, multi-step advertiser flows with a strong focus on reliability and UX
+- Improved file upload flows, reducing user friction and support issues
+- Worked on products with **80,000+ users**, handling real-world edge cases and scale
+
 
 ---
 
