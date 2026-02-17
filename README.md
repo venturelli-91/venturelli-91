@@ -14,11 +14,24 @@
 
 ---
 
-Front-End Engineer building production-ready React applications used by thousands of users.
+Frontend Engineer with 3+ years building production-ready React applications serving 10,000+ users. Specialized in monetization, advertising, and education platforms.
 
-I work on real products in education and advertising platforms, owning frontend features end to end, from understanding complex requirements to delivering reliable, maintainable solutions in production.
+10+ years in education brings strong problem decomposition, mentorship capability, and human-centered collaboration to product development. Created technical content reaching 80,000+ students and 10M+ YouTube views worldwide.
 
-My focus is on clarity over cleverness: simple architectures, strong validation, good UX, and frontend decisions that scale without overengineering.
+Core expertise
+
+→ Frontend: React, TypeScript, Next.js, TailwindCSS, Framer Motion
+→ State Management: Redux, Zustand, React Query, Context API
+→ Validation & Forms: Zod, React Hook Form
+→ Architecture: Component design, reusable hooks, clean separation of concerns
+
+Key achievements
+
+→ Mibbers: Built core product and certificate customization flows serving 10,000+ students, enabling course creators to monetize their content
+→ JOBmodel: Delivered MVP frontend flows and validation-heavy advertiser journeys, processing ~30 daily submissions with ~85% successful first-pass validation
+→ Self-employed: Shipped 15+ personal projects with 80% test coverage, identifying ~40% of defects during development before manual testing
+
+Based in Brasília, Brazil (GMT-3). 3+ years working remotely with distributed teams. Fluent in English and Portuguese. Open to remote opportunities with US companies building complex SaaS products.
 
 
 ---
