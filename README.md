@@ -95,7 +95,7 @@ Based in Brasília, Brazil (GMT-3). 3+ years working remotely with distributed t
 - 📅 [Timeline Board](https://github.com/venturelli-91/timeline_board) — Task management app with timeline visualization and drag-and-drop interactions, featuring dual views (grid and timeline), responsive layout, and client-side state management with Zustand (Next.js, TypeScript, Tailwind CSS).
 - 📊 [Sales Dashboard](https://github.com/venturelli-91/sales_dashboard.git) — Dashboard for sales management using React.js, Node.js, TypeScript, and PostgreSQL.
 
-📌 **See more at:** [github.com/venturelli-91/portfolio](https://github.com/venturelli-91/portfolio)
+📌 **See more at my portfolio:** [github.com/venturelli-91/portfolio](https://github.com/venturelli-91/portfolio)
 
 ---
 
