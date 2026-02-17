@@ -21,14 +21,19 @@ Frontend Engineer with 3+ years building production-ready React applications ser
 Core expertise
 
 → Frontend: React, TypeScript, Next.js, TailwindCSS, Framer Motion
+
 → State Management: Redux, Zustand, React Query, Context API
+
 → Validation & Forms: Zod, React Hook Form
+
 → Architecture: Component design, reusable hooks, clean separation of concerns
 
 Key achievements
 
 → Mibbers: Built core product and certificate customization flows serving 10,000+ students, enabling course creators to monetize their content
+
 → JOBmodel: Delivered MVP frontend flows and validation-heavy advertiser journeys, processing ~30 daily submissions with ~85% successful first-pass validation
+
 → Self-employed: Shipped 15+ personal projects with 80% test coverage, identifying ~40% of defects during development before manual testing
 
 Based in Brasília, Brazil (GMT-3). 3+ years working remotely with distributed teams. Fluent in English and Portuguese. Open to remote opportunities with US companies building complex SaaS products.
