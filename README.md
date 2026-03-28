@@ -183,11 +183,6 @@ Clean UI  =  Right abstraction  +  Zero unnecessary state  +  Motion that earns 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venturelli-91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=28FFEE&icon_color=28FFEE&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venturelli-91&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=28FFEE&text_color=ffffff" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=venturelli-91&theme=tokyonight&hide_border=true&background=0d1117&ring=28FFEE&fire=28FFEE&currStreakLabel=28FFEE" />
 </div>
 
