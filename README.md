@@ -19,7 +19,7 @@
 <br/><br/>
 
 <!-- OPEN TO WORK + PROFILE VIEWS -->
-<img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20US%20Companies-28FFEE?style=for-the-badge&labelColor=0d1117&color=28FFEE" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Brazilian%20%26%20Worldwide-28FFEE?style=for-the-badge&labelColor=0d1117&color=28FFEE" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=venturelli-91&style=for-the-badge&color=302b63&label=Profile+Views&labelColor=0d1117" />
 
@@ -33,7 +33,7 @@ Frontend Engineer with **3+ years** building production-ready React applications
 
 **10+ years in education** brings strong problem decomposition, mentorship capability, and human-centered collaboration to product development. Created technical content reaching **80,000+ students** and **10M+ YouTube views** worldwide.
 
-> Based in **Brasília, Brazil** (GMT-3) · Fluent in **English & Portuguese** · Open to **remote opportunities with US companies**
+> Based in **Brasília, Brazil** (GMT-3) · Fluent in **English & Portuguese** · Open to **remote opportunities — Brazilian & worldwide companies**
 
 <br/>
 
