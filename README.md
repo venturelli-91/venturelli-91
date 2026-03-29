@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aur%C3%A9lio%20Venturelli&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Frontend%20Developer&descSize=18&descAlignY=58&descColor=28FFEE&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aur%C3%A9lio%20Venturelli&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20PostgreSQL&descSize=18&descAlignY=58&descColor=28FFEE&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=600&size=22&pause=3000&color=28FFEE&center=true&vCenter=true&width=600&lines=React+%26+Next.js+Engineer;TypeScript+%7C+TailwindCSS+%7C+Framer+Motion;Building+products+for+10%2C000%2B+users;Open+to+remote+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=600&size=22&pause=3000&color=28FFEE&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%7C+React+%26+Node.js;TypeScript+%7C+Next.js+%7C+PostgreSQL+%7C+Docker;REST+APIs+%7C+Prisma+ORM+%7C+Redis+%7C+BullMQ;Scalable+SaaS+for+thousands+of+users;Open+to+remote+opportunities+worldwide" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- QUICK BADGES -->
 <img src="https://img.shields.io/badge/Frontend-React%2FNext.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/BFF-Node.js%2FExpress-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Testing-Jest%2FRTL%2FZustand-FFB300?style=for-the-badge&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/Animation-GSAP%2FFramer--Motion-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend-Node.js%2FExpress-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Database-PostgreSQL%2FPrisma-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Infra-Docker%2FRedis%2FAWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 <br/><br/>
 
@@ -29,11 +29,11 @@
 
 ## 🧑‍💻 About Me
 
-Frontend Engineer with **3+ years** building production-ready React applications serving **10,000+ users**. Specialized in monetization, advertising, and education platforms.
+Full Stack Engineer with **3+ years** building scalable web applications serving **thousands of users** in education, advertising, and monetization SaaS platforms — across the entire stack, from React UIs to Node.js APIs and PostgreSQL databases.
 
-**10+ years in education** brings strong problem decomposition, mentorship capability, and human-centered collaboration to product development. Created technical content reaching **80,000+ students** and **10M+ YouTube views** worldwide.
+**10+ years in education** brings strong problem decomposition, technical mentorship, and human-centered collaboration to product development. Created content reaching **80,000+ students** and **10M+ YouTube views** worldwide.
 
-> Based in **Brasília, Brazil** (GMT-3) · Fluent in **English & Portuguese** · Open to **remote opportunities — Brazilian & worldwide companies**
+> Based in **Brasília, Brazil** (GMT-3) · Fluent in **English & Portuguese** · Open to **remote opportunities worldwide**
 
 <br/>
 
@@ -41,20 +41,32 @@ Frontend Engineer with **3+ years** building production-ready React applications
 <tr>
 <td valign="top" width="50%">
 
-### ⚡ Core Expertise
+### ⚡ Frontend
 
-→ **Frontend:** React, TypeScript, Next.js, TailwindCSS, Framer Motion
+→ **UI:** React, TypeScript, Next.js, TailwindCSS, Framer Motion
 → **State:** Redux, Zustand, React Query, Context API
 → **Forms & Validation:** Zod, React Hook Form
-→ **Architecture:** Component design, reusable hooks, clean separation of concerns
+→ **Patterns:** Component design, reusable hooks, clean separation of concerns
 
 </td>
 <td valign="top" width="50%">
 
+### ⚙️ Backend & Infrastructure
+
+→ **Runtime:** Node.js, Express, REST APIs
+→ **ORM & Databases:** Prisma ORM, PostgreSQL, MySQL
+→ **Infra:** Docker, Redis, BullMQ, RabbitMQ, AWS (in progress)
+→ **Architecture:** DDD, TDD, FDD, clean separation of concerns
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2">
+
 ### 🏆 Key Achievements
 
 → **Mibbers** — Core product & certificate customization flows for **10,000+ students**
-→ **JOBmodel** — Advertiser journeys processing **~30 daily submissions** with ~85% first-pass validation
+→ **JOBmodel** — Full advertiser journeys processing **~30 daily submissions** with ~85% first-pass validation
 → **Self-employed** — 15+ projects with 80% test coverage, catching **~40% of defects** pre-manual QA
 
 </td>
@@ -67,10 +79,10 @@ Frontend Engineer with **3+ years** building production-ready React applications
 
 > _What's on my workbench right now_
 
-- Deepening expertise in **AI-integrated frontend** — LLM APIs, streaming UIs, prompt-aware components
-- Exploring **full-stack patterns** with Next.js App Router, server actions, and edge-deployed APIs
-- Refining **animation systems** with Framer Motion shared layouts and GSAP scroll-driven sequences
-- Diving into **AWS Cloud** — compute, storage, serverless and deployment pipelines
+- Deepening expertise in **full-stack architecture** — service layers, event-driven queues with BullMQ/RabbitMQ, and background job patterns
+- Expanding **AWS Cloud** knowledge — compute, storage, serverless and deployment pipelines
+- Exploring **AI-integrated products** — LLM APIs, streaming UIs, prompt-aware backend services
+- Refining **animation systems** with Framer Motion shared layouts and scroll-driven sequences
 
 ---
 
@@ -79,11 +91,12 @@ Frontend Engineer with **3+ years** building production-ready React applications
 > _Not just what I build — how I build it_
 
 ```
-Clean UI  =  Right abstraction  +  Zero unnecessary state  +  Motion that earns its cost
+Good software  =  Right abstraction  +  Observable APIs  +  Motion that earns its cost
 ```
 
+- I think **end-to-end**: from DB schema and REST contract to the UI that consumes it
 - I treat **UX debt** the same as technical debt — it compounds
-- I write **components for the next dev**, not just the next sprint
+- I write **components and services for the next dev**, not just the next sprint
 - I believe **the best validation logic is invisible** — the user never sees it fail
 - I ship **observable code**: readable diffs, intentional naming, no magic
 
@@ -99,10 +112,10 @@ Clean UI  =  Right abstraction  +  Zero unnecessary state  +  Motion that earns 
 
 <br/>
 
-### ◈ Frameworks & Libraries
+### ◈ Frontend
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,postgresql,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
   &nbsp;
   <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
@@ -114,6 +127,38 @@ Clean UI  =  Right abstraction  +  Zero unnecessary state  +  Motion that earns 
 
 <br/>
 
+### ◈ Backend & APIs
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</div>
+
+<br/>
+
+### ◈ Databases
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</div>
+
+<br/>
+
+### ◈ Infrastructure & DevOps
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/BullMQ-CC0000?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</div>
+
+<br/>
+
 ### ◈ Tools & Testing
 
 <div align="left">
@@ -121,22 +166,20 @@ Clean UI  =  Right abstraction  +  Zero unnecessary state  +  Motion that earns 
   &nbsp;
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 </div>
 
 <br/>
 
-### ◈ Architecture & UX
+### ◈ Architectural Patterns
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebSockets-4FC08D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX_Design-FF4081?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Integration-00B8D9?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM-0055FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/DDD-Domain_Driven_Design-5C6BC0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TDD-Test_Driven_Development-C21325?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FDD-Feature_Driven_Development-388E3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST-API_Design-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Event_Driven-Architecture-6A1B9A?style=for-the-badge" />
 </div>
 
 ---
@@ -218,4 +261,4 @@ Clean UI  =  Right abstraction  +  Zero unnecessary state  +  Motion that earns 
 <br/>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks+for+visiting!+Let%27s+build+something+amazing.&fontSize=16&fontColor=28FFEE&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Full+Stack+%7C+Open+to+Remote+%7C+Let%27s+build+something+great.&fontSize=16&fontColor=28FFEE&fontAlignY=65&animation=fadeIn" />
