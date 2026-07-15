@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aur%C3%A9lio%20Venturelli&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20PostgreSQL&descSize=18&descAlignY=58&descColor=28FFEE&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aur%C3%A9lio%20Venturelli&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20Product%20Focused%20%C2%B7%20SaaS&descSize=18&descAlignY=58&descColor=28FFEE&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=600&size=22&pause=3000&color=28FFEE&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%7C+React+%26+Node.js;TypeScript+%7C+Next.js+%7C+PostgreSQL+%7C+Docker;REST+APIs+%7C+Prisma+ORM+%7C+Redis+%7C+BullMQ;Scalable+SaaS+for+thousands+of+users;Open+to+remote+opportunities+worldwide" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=600&size=22&pause=3000&color=28FFEE&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%7C+React+%26+Node.js;TypeScript+%7C+Next.js+16+%7C+TanStack+Query+v5;LLM%2C+RAG+%26+AI+Agents+%7C+Spec-Driven+Dev;13%2C000%2B+users+in+production%2C+97%25+auth+success;100%25+async%2C+remote+from+Brasilia+GMT-3" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,12 +14,12 @@
 <img src="https://img.shields.io/badge/Frontend-React%2FNext.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Backend-Node.js%2FExpress-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Database-PostgreSQL%2FPrisma-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Infra-Docker%2FRedis%2FAWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Claude%20Code%2FRAG%2Fn8n-9C27B0?style=for-the-badge&logo=anthropic&logoColor=white" />
 
 <br/><br/>
 
 <!-- OPEN TO WORK + PROFILE VIEWS -->
-<img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Brazilian%20%26%20Worldwide-28FFEE?style=for-the-badge&labelColor=0d1117&color=28FFEE" />
+<img src="https://img.shields.io/badge/Open%20to-Remote%20Product%20%2F%20Full%20Stack%20Roles-28FFEE?style=for-the-badge&labelColor=0d1117&color=28FFEE" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=venturelli-91&style=for-the-badge&color=302b63&label=Profile+Views&labelColor=0d1117" />
 
@@ -29,11 +29,13 @@
 
 ## 🧑‍💻 About Me
 
-Full Stack Engineer with **3+ years** building scalable web applications serving **thousands of users** in education, advertising, and monetization SaaS platforms — across the entire stack, from React UIs to Node.js APIs and PostgreSQL databases.
+Full Stack Engineer building with **React, Next.js, TypeScript, and Node.js**. 10+ years teaching came before engineering, and that's the source of the instinct to own problems nobody assigned: the reason Refatorando (80,000+ students, 10M+ YouTube views) brought me on to build production apps, not just teach them.
 
-**10+ years in education** brings strong problem decomposition, technical mentorship, and human-centered collaboration to product development. Created content reaching **80,000+ students** and **10M+ YouTube views** worldwide.
+In the last 2 years: a WYSIWYG certificate editor in React, TypeScript, and HTML Canvas; PIN authentication that replaced email/password login at a **97% success rate**; and a frontend modularization that grew a codebase from **328 to 1,227 files** without losing delivery velocity. All running in production for a creator platform with **13,000+ users**.
 
-> Based in **Brasília, Brazil** (GMT-3) · Fluent in **English & Portuguese** · Open to **remote opportunities worldwide**
+Product-oriented first: a feature isn't done when it ships, it's done when it moves activation, retention, or conversion.
+
+> Based in **Brasília, Brazil** (GMT-3) · 100% async and remote for 3 years, collaborating daily with product leadership in Canada · Fluent in **English & Portuguese**
 
 <br/>
 
@@ -43,20 +45,20 @@ Full Stack Engineer with **3+ years** building scalable web applications serving
 
 ### ⚡ Frontend
 
-→ **UI:** React, TypeScript, Next.js, TailwindCSS, Framer Motion
-→ **State:** Redux, Zustand, React Query, Context API
+→ **UI:** React, TypeScript, Next.js (App Router), TailwindCSS
+→ **State & Data:** Zustand, TanStack Query v5, Context API
 → **Forms & Validation:** Zod, React Hook Form
-→ **Patterns:** Component design, reusable hooks, clean separation of concerns
+→ **Accessibility:** ARIA, keyboard nav, i18n, screen reader testing (NVDA)
 
 </td>
 <td valign="top" width="50%">
 
-### ⚙️ Backend & Infrastructure
+### ⚙️ Backend, AI & Infrastructure
 
-→ **Runtime:** Node.js, Express, REST APIs
-→ **ORM & Databases:** Prisma ORM, PostgreSQL, MySQL
-→ **Infra:** Docker, Redis, BullMQ, RabbitMQ, AWS (in progress)
-→ **Architecture:** DDD, TDD, FDD, clean separation of concerns
+→ **Runtime:** Node.js, Express, REST APIs, Prisma ORM, PostgreSQL
+→ **AI-augmented dev:** Claude Code, Cursor, Copilot, spec-driven workflows
+→ **Automation & RAG:** n8n pipelines, pgvector, semantic chunking, LLM retrieval
+→ **DevOps & QA:** Docker, CI/CD, Redis, Playwright MCP UX audits, Biome
 
 </td>
 </tr>
@@ -65,9 +67,9 @@ Full Stack Engineer with **3+ years** building scalable web applications serving
 
 ### 🏆 Key Achievements
 
-→ **Mibbers** — Core product & certificate customization flows for **10,000+ students**
-→ **JOBmodel** — Full advertiser journeys processing **~30 daily submissions** with ~85% first-pass validation
-→ **Self-employed** — 15+ projects with 80% test coverage, catching **~40% of defects** pre-manual QA
+→ **Mibbers** — Creator dashboard for **13,000+ users**: WYSIWYG Canvas certificate editor, PIN auth at **97% success**, community platform with 13 feature domains
+→ **Job Model / Freelance Insider** — Led modularization from **328 → 1,227 files** in 5 months; custom hooks **4 → 46 (+1,050%)**; components **150 → 361 (+141%)**
+→ **Refatorando** — 15+ production apps for **110+ clients**, **-30% technical debt**, mentored **50+ junior developers**
 
 </td>
 </tr>
@@ -75,14 +77,14 @@ Full Stack Engineer with **3+ years** building scalable web applications serving
 
 ---
 
-## 🔭 Currently Building
+## 🔭 What's Next
 
-> _What's on my workbench right now_
+> _Where I'm pushing the stack right now_
 
-- Deepening expertise in **full-stack architecture** — service layers, event-driven queues with BullMQ/RabbitMQ, and background job patterns
-- Expanding **AWS Cloud** knowledge — compute, storage, serverless and deployment pipelines
-- Exploring **AI-integrated products** — LLM APIs, streaming UIs, prompt-aware backend services
-- Refining **animation systems** with Framer Motion shared layouts and scroll-driven sequences
+- Deepening **AI agent workflows** — spec-driven development, RAG pipelines with pgvector, and n8n automation to extend delivery scope without losing technical ownership
+- Growing **UX audit tooling** — Playwright MCP screenshot flows scored against Nielsen's heuristics and Core Web Vitals before every launch
+- Hardening **accessibility as a default**, not an afterthought — ARIA, keyboard nav, and i18n enforced via automated lint checks
+- Open to **remote Product Engineer or Full Stack roles** at product-led SaaS companies with real engineering challenges and a strong async culture
 
 ---
 
@@ -95,9 +97,9 @@ Good software  =  Right abstraction  +  Observable APIs  +  Motion that earns it
 ```
 
 - I think **end-to-end**: from DB schema and REST contract to the UI that consumes it
-- I treat **UX debt** the same as technical debt — it compounds
+- I treat **UX debt** the same as technical debt: it compounds
 - I write **components and services for the next dev**, not just the next sprint
-- I believe **the best validation logic is invisible** — the user never sees it fail
+- I believe **the best validation logic is invisible**: the user never sees it fail
 - I ship **observable code**: readable diffs, intentional naming, no magic
 
 ---
@@ -118,11 +120,10 @@ Good software  =  Right abstraction  +  Observable APIs  +  Motion that earns it
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
   &nbsp;
   <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query_v5-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML_Canvas-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
 <br/>
@@ -134,7 +135,6 @@ Good software  =  Right abstraction  +  Observable APIs  +  Motion that earns it
   &nbsp;
   <img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </div>
 
 <br/>
@@ -143,6 +143,21 @@ Good software  =  Right abstraction  +  Observable APIs  +  Motion that earns it
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+<br/>
+
+### ◈ AI-Augmented Development
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_%2F_pgvector-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spec--Driven_Dev-28FFEE?style=for-the-badge&labelColor=0d1117" />
 </div>
 
 <br/>
@@ -150,8 +165,9 @@ Good software  =  Right abstraction  +  Observable APIs  +  Motion that earns it
 ### ◈ Infrastructure & DevOps
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws" />
+  <img src="https://skillicons.dev/icons?i=docker" />
   &nbsp;
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/BullMQ-CC0000?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
@@ -159,27 +175,27 @@ Good software  =  Right abstraction  +  Observable APIs  +  Motion that earns it
 
 <br/>
 
-### ◈ Tools & Testing
+### ◈ Testing & UX Auditing
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
   &nbsp;
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright_MCP-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white" />
 </div>
 
 <br/>
 
-### ◈ Architectural Patterns
+### ◈ Accessibility
 
 <div align="left">
-  <img src="https://img.shields.io/badge/DDD-Domain_Driven_Design-5C6BC0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TDD-Test_Driven_Development-C21325?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FDD-Feature_Driven_Development-388E3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST-API_Design-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Event_Driven-Architecture-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ARIA-005A9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keyboard_Navigation-005A9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/i18n-005A9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NVDA_Screen_Reader-005A9C?style=for-the-badge" />
 </div>
 
 ---
@@ -211,13 +227,17 @@ Good software  =  Right abstraction  +  Observable APIs  +  Motion that earns it
 
 <div align="center">
 
-| Metric                                    | Value                        |
-| ----------------------------------------- | ---------------------------- |
-| 🎓 Students served (Mibbers platform)     | **10,000+**                  |
-| 👥 Users across all products              | **80,000+**                  |
-| 📹 YouTube reach (educational content)    | **10M+ views**               |
-| ✅ Pre-QA defect detection rate           | **~40%**                     |
-| 📨 Daily advertiser submissions processed | **~30/day @ 85% first-pass** |
+| Metric                                        | Value                     |
+| ---------------------------------------------- | ------------------------- |
+| 👥 Active users (Mibbers creator platform)     | **13,000+**                |
+| 🔐 PIN auth success rate (replaced email/pass) | **97%**                    |
+| 🗂️ Codebase growth without losing velocity     | **328 → 1,227 files**       |
+| 🪝 Custom hooks (Freelance Insider)            | **4 → 46 (+1,050%)**        |
+| 🧩 Reusable components (Freelance Insider)     | **150 → 361 (+141%)**       |
+| 🎓 Students reached (Refatorando content)      | **80,000+**                 |
+| 📹 YouTube reach (educational content)         | **10M+ views**              |
+| 🤝 Clients served (Refatorando)                | **110+**                    |
+| 🧑‍🏫 Junior developers mentored               | **50+**                    |
 
 </div>
 
@@ -261,4 +281,4 @@ Good software  =  Right abstraction  +  Observable APIs  +  Motion that earns it
 <br/>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Full+Stack+%7C+Open+to+Remote+%7C+Let%27s+build+something+great.&fontSize=16&fontColor=28FFEE&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Product+Focused+%7C+Open+to+Remote+%7C+Let%27s+build+something+real.&fontSize=16&fontColor=28FFEE&fontAlignY=65&animation=fadeIn" />
