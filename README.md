@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER HERO CARD -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f0c29,25:302b63,50:6a2c70,75:302b63,100:24243e&height=210&section=header&text=Aur%C3%A9lio%20Venturelli&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Engineer%20%C2%B7%20Product%20Focused%20%C2%B7%20SaaS&descSize=18&descAlignY=60&descColor=28FFEE&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,25:302b63,50:6a2c70,75:302b63,100:0d1117&height=210&section=header&text=Aur%C3%A9lio%20Venturelli&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Engineer%20%C2%B7%20Product%20Focused%20%C2%B7%20SaaS&descSize=18&descAlignY=60&descColor=28FFEE&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
@@ -25,7 +25,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,25:302b63,50:6a2c70,75:302b63,100:24243e&height=6" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:302b63,50:6a2c70,75:302b63,100:0d1117&height=6" />
 
 ## 🧑‍💻 About Me
 
@@ -301,4 +301,4 @@ Good software  =  Right abstraction  +  Observable APIs  +  Motion that earns it
 <br/>
 
 <!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Product+Focused+%7C+Open+to+Remote+%7C+Let%27s+build+something+real.&fontSize=16&fontColor=28FFEE&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:302b63,100:0d1117&height=120&section=footer&text=Product+Focused+%7C+Open+to+Remote+%7C+Let%27s+build+something+real.&fontSize=16&fontColor=28FFEE&fontAlignY=65&animation=fadeIn" />
