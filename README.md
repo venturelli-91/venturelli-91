@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER HERO CARD -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,25:302b63,50:6a2c70,75:302b63,100:0d1117&height=210&section=header&text=Aur%C3%A9lio%20Venturelli&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Engineer%20%C2%B7%20Product%20Focused%20%C2%B7%20SaaS&descSize=18&descAlignY=60&descColor=28FFEE&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,25:302b63,50:6a2c70,75:302b63,100:0d1117&height=140&section=header&text=Aur%C3%A9lio%20Venturelli&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Engineer%20%C2%B7%20Product%20Focused%20%C2%B7%20SaaS&descSize=18&descAlignY=58&descColor=28FFEE&animation=fadeIn" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
