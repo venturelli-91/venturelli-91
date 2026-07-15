@@ -31,19 +31,19 @@
 
 <table>
 <tr>
-<td valign="top" width="22%" align="center">
+<td valign="middle" width="180" align="center">
 
 <img src="https://github.com/venturelli-91.png" width="140" style="border-radius:50%;border:3px solid #28FFEE" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍-Bras%C3%ADlia%2C%20Brazil-0d1117?style=flat-square&labelColor=0d1117&color=28FFEE" /><br/>
-<img src="https://img.shields.io/badge/🕒-GMT--3%20%C2%B7%20Async-0d1117?style=flat-square&labelColor=0d1117&color=28FFEE" /><br/>
-<img src="https://img.shields.io/badge/🗣️-EN%20%2F%20PT--BR-0d1117?style=flat-square&labelColor=0d1117&color=28FFEE" /><br/>
-<img src="https://img.shields.io/badge/💼-Open%20to%20Work-0d1117?style=flat-square&labelColor=0d1117&color=28FFEE" />
+<img src="https://img.shields.io/badge/📍%20Bras%C3%ADlia%2C%20Brazil-0d1117?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/🕒%20GMT--3%20%C2%B7%20Async-0d1117?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/🗣️%20EN%20%2F%20PT--BR-0d1117?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/💼%20Open%20to%20Work-0d1117?style=flat-square" />
 
 </td>
-<td valign="top" width="78%">
+<td valign="middle" style="padding-left:28px">
 
 Full Stack Engineer building with **React, Next.js, TypeScript, and Node.js**. 10+ years teaching came before engineering, and that's the source of the instinct to own problems nobody assigned: the reason Refatorando (80,000+ students, 10M+ YouTube views) brought me on to build production apps, not just teach them.
 
