@@ -1,11 +1,17 @@
 <div align="center">
 
-<!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aur%C3%A9lio%20Venturelli&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20Product%20Focused%20%C2%B7%20SaaS&descSize=18&descAlignY=58&descColor=28FFEE&animation=fadeIn" />
+<!-- HEADER WAVE (back layer, softer, parallax) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:1a1a2e&height=180&section=header&opacity=0.35" />
+
+<!-- HEADER WAVE (front layer) -->
+<img width="100%" style="margin-top:-170px" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,25:302b63,50:6a2c70,75:302b63,100:24243e&height=200&section=header&text=Aur%C3%A9lio%20Venturelli&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%C2%B7%20Product%20Focused%20%C2%B7%20SaaS&descSize=18&descAlignY=56&descColor=28FFEE&animation=fadeIn" />
+
+<!-- AVATAR -->
+<img src="https://github.com/venturelli-91.png" width="110" style="border-radius:50%;margin-top:-16px;border:3px solid #28FFEE" />
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Jost&weight=600&size=22&pause=3000&color=28FFEE&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%7C+React+%26+Node.js;TypeScript+%7C+Next.js+16+%7C+TanStack+Query+v5;LLM%2C+RAG+%26+AI+Agents+%7C+Spec-Driven+Dev;13%2C000%2B+users+in+production%2C+97%25+auth+success;100%25+async%2C+remote+from+Brasilia+GMT-3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=3000&color=28FFEE&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%7C+React+%26+Node.js;TypeScript+%7C+Next.js+16+%7C+TanStack+Query+v5;LLM%2C+RAG+%26+AI+Agents+%7C+Spec-Driven+Dev;13%2C000%2B+users+in+production%2C+97%25+auth+success;100%25+async%2C+remote+from+Brasilia+GMT-3" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,9 +31,25 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,25:302b63,50:6a2c70,75:302b63,100:24243e&height=6" />
 
 ## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="22%" align="center">
+
+<img src="https://github.com/venturelli-91.png" width="140" style="border-radius:50%;border:3px solid #28FFEE" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍-Bras%C3%ADlia%2C%20Brazil-0d1117?style=flat-square&labelColor=0d1117&color=28FFEE" /><br/>
+<img src="https://img.shields.io/badge/🕒-GMT--3%20%C2%B7%20Async-0d1117?style=flat-square&labelColor=0d1117&color=28FFEE" /><br/>
+<img src="https://img.shields.io/badge/🗣️-EN%20%2F%20PT--BR-0d1117?style=flat-square&labelColor=0d1117&color=28FFEE" /><br/>
+<img src="https://img.shields.io/badge/💼-Open%20to%20Work-0d1117?style=flat-square&labelColor=0d1117&color=28FFEE" />
+
+</td>
+<td valign="top" width="78%">
 
 Full Stack Engineer building with **React, Next.js, TypeScript, and Node.js**. 10+ years teaching came before engineering, and that's the source of the instinct to own problems nobody assigned: the reason Refatorando (80,000+ students, 10M+ YouTube views) brought me on to build production apps, not just teach them.
 
@@ -35,7 +57,11 @@ In the last 2 years: a WYSIWYG certificate editor in React, TypeScript, and HTML
 
 Product-oriented first: a feature isn't done when it ships, it's done when it moves activation, retention, or conversion.
 
-> Based in **Brasília, Brazil** (GMT-3) · 100% async and remote for 3 years, collaborating daily with product leadership in Canada · Fluent in **English & Portuguese**
+> 🌎 Based in **Brasília, Brazil** (GMT-3) · 100% async and remote for 3 years, collaborating daily with product leadership in Canada · Fluent in **English & Portuguese**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
